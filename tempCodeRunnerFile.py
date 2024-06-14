@@ -1,2 +1,0 @@
-
-        resposta = 'Necessita reparos'
